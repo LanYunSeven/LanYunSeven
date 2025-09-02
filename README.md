@@ -1,3 +1,5 @@
-# Hi there 👋
-### 我是一只一只臭弟弟~
-<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanyunseven)
+# 大家好 👋
+### 嘎嘎嘎~ 我是一只一只臭弟弟~
+
+### 🔨 技能
+![技能](https://skillicons.dev/icons?i=windows,vscodium,ps,mint,html,github,wordpress)
